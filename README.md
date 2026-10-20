@@ -18,4 +18,4 @@ Proyek Akhir Pemrograman Perangkat Bergerak - Kelompok 4
 1. Clone repository ini: `git clone <url-repository>`
 2. Masuk ke direktori proyek: `cd <nama-folder>`
 3. Jalankan perintah untuk mengunduh dependencies: `flutter pub get`
-4. Jalankan aplikasi pada emulator atau perangkat fisik: `flutter run`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c999aca2-95c7-4879-b640-b4fac440809c" /># app-absensi-siswa
+4. Jalankan aplikasi pada emulator atau perangkat fisik: `flutter run 
